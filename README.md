@@ -1,1 +1,0 @@
-# Testes e estudos com HTML e CSS, e qualquer tecnologia aplicável ao WEB
